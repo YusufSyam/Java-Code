@@ -2,7 +2,6 @@ package ecl;
 import java.util.Scanner; 
 
 class Belajarmethod{
-//
 		public static void main(String [] args){
 		Scanner xx= new Scanner(System.in);
 		double a= xx.nextDouble();
