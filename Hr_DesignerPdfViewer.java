@@ -22,8 +22,6 @@ class Result {
      */
 
     public static int designerPdfViewer(List<Integer> h, String word) {
-    // Write your code here
-        
         int max= 0;
         int maxIndex= 0;
         for(int i=0; i<word.length(); i++){
@@ -45,9 +43,6 @@ class Result {
         }
         
         return max * word.length();
-            
-            
-            
     }
 
 }
